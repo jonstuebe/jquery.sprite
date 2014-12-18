@@ -1,11 +1,11 @@
 {
-  "name": "readingTime",
+  "name": "jquery.sprite",
   "version": "0.0.1",
-  "homepage": "https://github.com/jonstuebe/readingTime",
+  "homepage": "https://github.com/jonstuebe/jquery.sprite",
   "authors": [
     "Jonathan Stuebe <jstuebe@gmail.com>"
   ],
-  "main": "jquery.readingTime.js",
+  "main": "jquery.sprite.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
