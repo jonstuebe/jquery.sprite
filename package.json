@@ -1,0 +1,20 @@
+{
+  "name": "jquery.sprite",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonstuebe/jquery.sprite.git"
+  },
+  "author": "Jon Stuebe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonstuebe/jquery.sprite/issues"
+  },
+  "dependencies": {
+    "gulp": "~3.6.2",
+    "gulp-uglify": "~0.3.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-notify": "~2.1.0"
+  }
+}
